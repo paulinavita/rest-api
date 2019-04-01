@@ -1,5 +1,5 @@
 {
-  "development": {
+  "production": {
     "username": "postgres",
     "password": 2606,
     "database": "rest_api_database",
