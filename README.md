@@ -16,3 +16,4 @@ Route | HTTP | Headers | Body | Description
 ## Usage
 
 Run the server on [http://localhost:3000](http://localhost:3000) 
+or on Heroku http://paul-rest-api.herokuapp.com/
